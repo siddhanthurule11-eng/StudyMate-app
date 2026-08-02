@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix StudyMate",
+  "description": "Student Study Planner app with timetable, homework, notes, to-do list, exam planner, student profile, and settings. Made by Siddhant Hurule.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
